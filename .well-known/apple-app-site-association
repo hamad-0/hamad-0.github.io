@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "FP289QYYYT.com.pwc.me.mobility.peopleconnect"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "S8QB4VV633.com.example.deeplinkCookbook"
+    ]
+  }
+}
