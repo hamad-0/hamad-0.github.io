@@ -3,16 +3,9 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "FP289QYYYT.com.pwc.me.mobility.peopleconnect"
-        ],
+        "appID": "FP289QYYYT.com.pwc.me.mobility.peopleconnect",
         "paths": [
           "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
         ]
       }
     ]
