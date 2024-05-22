@@ -3,16 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "FP289QYYYT.com.pwc.me.mobility.peco",
+        "appID": "FP289QYYYT.com.pwc.me.mobility.peopleconnect",
         "paths": [
           "*"
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "S8QB4VV633.com.example.deeplinkCookbook"
     ]
   }
 }
