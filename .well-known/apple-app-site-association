@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["FP289QYYYT.com.pwc.gx.mobility.peco"],
+        "appIDs": ["FP289QYYYT.com.pwc.gx.mobility.peco","FP289QYYYT.com.pwc.me.mobility.peco"],
         "paths": [
           "*"
         ]
