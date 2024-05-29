@@ -14,5 +14,14 @@
     
         }
     
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pwc.gx.mobility.academyconnect",
+        "sha256_cert_fingerprints":
+          ["24:63:D1:B2:5D:A2:1B:51:5D:86:67:AE:F2:E6:E8:89:A4:76:0B:55:0E:C1:EF:4E:D9:EB:6B:3B:72:28:E8:0D"]
+      }
     }
 ]
